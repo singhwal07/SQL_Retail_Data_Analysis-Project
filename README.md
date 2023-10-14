@@ -2,8 +2,8 @@
 
 ##Table Content
 
-Table Name : Customer
-customer_id : Customer ID information 
+Table Name : Customer  
+customer_id : Customer ID information   
 DOB : Date of Birth of Customer
 Gender : Gender of Customer
 city_code : Code of Customer's City
